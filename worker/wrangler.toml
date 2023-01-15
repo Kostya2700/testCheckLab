@@ -1,7 +1,7 @@
 name = "workers-airtable-form"
 type = "javascript"
 
-account_id = "RnLNDrpFW25FaPO0KGUS7-8_kylRwNX8Mg8W3E_C"
+account_id = "v1.0-9d49c7a89c369aff7f3d8bb3-9b2b4f0a1a9571dd95d473aac20e205d3c43fdbf572734eb34ba3ce9887ecf48ab012e2d77cec5fb5a766a8c6a5bc6161fd68ccb384675f0cf05307c09c5566a3d6efba9b212179d9a"
 workers_dev = true
 
 
