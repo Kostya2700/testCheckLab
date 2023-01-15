@@ -4,6 +4,7 @@ type = "javascript"
 account_id = "f15b808a09859f50086d119a6e22e98abcb5f"
 workers_dev = true
 
+
 [vars]
 AIRTABLE_BASE_ID = "tblLNDX7dDnOTZYy0"
 AIRTABLE_TABLE_NAME = "test_project"
