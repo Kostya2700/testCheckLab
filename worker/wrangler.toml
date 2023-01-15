@@ -1,11 +1,11 @@
 name = "workers-airtable-form"
 type = "javascript"
 
-account_id = "m4XhsHQMePB0PPoiOavF-pCVJ3AARiYyVB7m6zq9"
+account_id = "z22mAd6d2i5N0Q9tiP8vJxNh0hBAv-NzPXm8S_Tv"
 workers_dev = true
 
 
 [vars]
-AIRTABLE_BASE_ID = "keyjCOjMMrw7hA13R"
+AIRTABLE_BASE_ID = "appWf2pM6T9WJnVEr"
 AIRTABLE_TABLE_NAME = "test_project"
 FORM_URL = "https://airtable.com/invite/r/reaVwXjP"
