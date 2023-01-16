@@ -6,6 +6,6 @@ workers_dev = true
 
 
 [vars]
-AIRTABLE_BASE_ID = "appWf2pM6T9WJnVEr"
-AIRTABLE_TABLE_NAME = "test_project"
-FORM_URL = "https://api.airtable.com/v0/appWf2pM6T9WJnVEr/Tasks?maxRecords=3&view=Grid%20view"
+AIRTABLE_BASE_ID = "appBFHpeTcmjrOC8e"
+AIRTABLE_TABLE_NAME = "Project tracker"
+FORM_URL = "https://api.airtable.com/v0/meta/bases"
